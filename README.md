@@ -154,7 +154,9 @@ https://askubuntu.com/questions/505081/what-version-of-python-do-i-have
 6. Uninstall conda
 https://stackoverflow.com/questions/22585235/python-anaconda-how-to-safely-uninstall 
 7. install python 3.8 
-8. reintall conda
+parlab@ubuntu:~/Downloads$ tar xf Python-3.9.16.tar.xz
+9. reintall conda
+
 
 Pinned packages:
   - python 3.6.*
