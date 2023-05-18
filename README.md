@@ -144,10 +144,11 @@ parlab@ubuntu:~$ source activate ros_env
 (ros_env) parlab@ubuntu:~$ conda deactivate
 parlab@ubuntu:~$ mkdir ros_env_conda_source_activate_ros_env
 
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4.Check python instalallation
+parlab@ubuntu:~$ compgen -c python | sort -u
+https://askubuntu.com/questions/505081/what-version-of-python-do-i-have
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
