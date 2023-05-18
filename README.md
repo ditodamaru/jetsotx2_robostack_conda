@@ -139,10 +139,11 @@ _Below is an example of how you can instruct your audience on installing and set
    https://seoftware.tistory.com/111
 3. setup conda + robostack
    https://robostack.github.io/GettingStarted.html
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
+3. activate robostack env
+parlab@ubuntu:~$ source activate ros_env
+(ros_env) parlab@ubuntu:~$ conda deactivate
+parlab@ubuntu:~$ mkdir ros_env_conda_source_activate_ros_env
+
 4. Enter your API in `config.js`
    ```js
    const API_KEY = 'ENTER YOUR API';
