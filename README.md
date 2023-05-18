@@ -148,10 +148,28 @@ parlab@ubuntu:~$ mkdir ros_env_conda_source_activate_ros_env
 parlab@ubuntu:~$ compgen -c python | sort -u
 https://askubuntu.com/questions/505081/what-version-of-python-do-i-have
 
+5. error 
+![image](https://github.com/ditodamaru/jetsotx2_robostack_conda/assets/58300987/7554bd1a-da27-4674-a872-0640ddbe13e3)
+
+6. Uninstall conda
+https://stackoverflow.com/questions/22585235/python-anaconda-how-to-safely-uninstall 
+7. install python 3.8 
+8. reintall conda
+
+Pinned packages:
+  - python 3.6.*
+
+
+Encountered problems while solving:
+  - nothing provides openssl >=1.0.2p,<1.0.3a needed by python-3.7.1-hd75c258_1001
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+6. 
 
 
 <!-- USAGE EXAMPLES -->
